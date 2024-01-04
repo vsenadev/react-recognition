@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=py,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 - OpenCV
 - DeepFace (modelo de treinamento para reconhecimento facial)
 
